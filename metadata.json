@@ -1,0 +1,6 @@
+{
+  "name": "Garbage Truck Notifier",
+  "description": "A multi-area garbage truck notification app allowing residents to subscribe to pickup schedules and receive instant notifications from area admins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
